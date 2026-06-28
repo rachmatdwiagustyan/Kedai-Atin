@@ -101,7 +101,7 @@ export default function Home() {
           <div className="flex items-center">
             <div className="relative h-14 w-14">
               <Image
-                src="/images/logokedai.png"
+                src="/images/logo02.png"
                 alt="Kedai Atin"
                 fill
                 className="object-contain"
@@ -228,7 +228,7 @@ export default function Home() {
             <div className="md:col-span-5 flex justify-center">
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 max-w-[90vw] max-h-[90vw] rounded-2xl overflow-hidden border border-gray-250 bg-white shadow-sm">
                 <Image
-                  src="/images/logokedai.png"
+                  src="/images/logo02.png"
                   alt="Kedai Atin"
                   fill
                   className="object-contain p-6"
@@ -249,7 +249,7 @@ export default function Home() {
           <div className="text-center max-w-2xl mx-auto mb-16 space-y-3">
             <h2 className="text-xs uppercase tracking-widest font-extrabold text-blue-800">Daftar Menu</h2>
             <h3 className="text-2xl sm:text-3xl font-extrabold text-gray-900">
-              Varian Pempek Kedai Atin
+              Varian Pempek Atin
             </h3>
             <p className="text-gray-500 text-base">
               Silakan pilih pempek favorit Anda di bawah ini dan klik tombol logo WhatsApp untuk langsung memesan lewat admin kami.
@@ -390,7 +390,7 @@ export default function Home() {
             <div className="md:col-span-6 space-y-4">
               <div className="relative h-14 w-14 bg-white rounded-xl flex items-center justify-center p-2">
                 <Image
-                  src="/images/logokedai.png"
+                  src="/images/logo02.png"
                   alt="Logo Kedai Atin"
                   fill
                   className="object-contain"
